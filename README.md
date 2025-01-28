@@ -43,4 +43,4 @@
 ## 📧 Let's Connect!
 - **LinkedIn:** [Your LinkedIn Profile](#)  
 - **Portfolio Website:** [Link (if you have one)](#)  
-- **Email:** your.email@example.com  
+- **Email:** encarnacionRich8400@gmail.com  
