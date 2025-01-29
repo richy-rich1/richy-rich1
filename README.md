@@ -3,16 +3,18 @@
 ## About Me
 🎓 Data professional with a passion for **data analysis**, **visualization**, **machine learning**, and **ETL pipelines**.  
 📊 Graduate of the **Rutgers Data Bootcamp**, with hands-on experience in building scalable data solutions.  
-🚀 Always excited to collaborate on innovative projects and explore new technologies, including **OpenAI** tools and frameworks.
+🚀 Always excited to collaborate on innovative projects and explore new technologies, including **OpenAI** tools and frameworks.  
+💡 Currently diving deep into **Spark** and **Java**, spending hours honing my skills to build a strong foundation for success in the tech industry.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming:** Python, JavaScript, SQL  
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Flask, Django  
+- **Programming:** Python, JavaScript, SQL, Java  
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Flask, Django, Spark  
 - **Machine Learning & AI:** Scikit-learn, OpenAI APIs, TensorFlow (basics)  
 - **Databases:** PostgreSQL, MongoDB, SQLite  
-- **Other Tools:** Tableau, Excel (advanced), Git/GitHub, Jupyter Notebook  
+- **Data Visualization:** Tableau, Power BI, Plotly  
+- **Other Tools:** Excel (advanced), Git/GitHub, Jupyter Notebook  
 
 ---
 
@@ -41,6 +43,7 @@
 ---
 
 ## 📧 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Portfolio Website:** [Link (if you have one)](#)  
+- **LinkedIn:** [Your LinkedIn Profile](#)   
 - **Email:** encarnacionRich8400@gmail.com  
+- **My Website:** [Richard Encarnacion Website](C:\Users\Rich\Downloads\RICHARD ENCARNACION webiste2.html)
+
