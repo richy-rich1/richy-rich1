@@ -53,4 +53,4 @@
 ## 📧 Let's Connect!
 - **LinkedIn:** (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - **Email:** encarnacionRich8400@gmail.com  
-- **My Website:** [Richard Encarnacion Website] (file:///C:/Users/Rich/Downloads/Richrad%20Encarnacion%20webiste/Untitled-1.html)
+- **My Website:** [Richard Encarnacion Website]((https://richy-rich1.github.io/)
