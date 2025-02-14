@@ -40,6 +40,10 @@
 **Tech Stack:** Python, Plotly Dash, SQL, APIs.  
 📂 **Repository:** [Interactive Data Visualization Project](https://github.com/dsrumi/Project-3.git)
 
+###5️⃣ Project4_Team4_ML
+Description: A machine learning project aimed at developing predictive models using advanced ML techniques.
+Tech Stack: Python, Scikit-learn, Pandas, Jupyter Notebook.
+📂 Repository: https://github.com/Aaqib7007/Project4_Team4_ML.git
 ---
 
 ## 🔥 What I Bring to the Table
